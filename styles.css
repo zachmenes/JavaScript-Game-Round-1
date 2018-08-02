@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    color: #10eca3;
+    text-align: center;
+}
+
+div {
+    margin: auto;
+}
+
+
+.logo {
+    margin: 50px auto;
+    text-align: center;
+  }
+  .logo {
+    text-decoration: none;
+    -webkit-transform: perspective(2.5em) rotateX(15deg) scaleY(0.8);
+    -moz-transform: perspective(2.5em) rotateX(15deg) scaleY(0.8);
+    -ms-transform: perspective(2.5em) rotateX(15deg) scaleY(0.8);
+    -o-transform: perspective(2.5em) rotateX(15deg) scaleY(0.8);
+    transform: perspective(2.5em) rotateX(15deg) scaleY(0.8);
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    transition: all 0.5s;
+    display: inline-block;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 75px;
+    font-weight: 700;
+    font-family: 'Exo 2';
+    line-height: 0.8;
+    color: #c4f441;
+    text-shadow: 0 -1px 15px rgba(0, 0, 0, 0.9), 0 1px 0 #94ba0b, 0 3px 0 #98bf0b, 0 5px 0 #9bc40b, 0 7px 0 #9fc80c, 0 9px 0 #a3cd0c, 0 6px 50px rgba(226, 250, 161, 0.8);
+}
+.logo:first-line {
+  font-size: 0.8em;
+}
+.logo:hover {
+  -webkit-transform: perspective(8em) rotateX(11deg) scale(1.2);
+  -moz-transform: perspective(8em) rotateX(11deg) scale(1.2);
+  -ms-transform: perspective(8em) rotateX(11deg) scale(1.2);
+  -o-transform: perspective(8em) rotateX(11deg) scale(1.2);
+  transform: perspective(8em) rotateX(11deg) scale(1.2);
+  text-shadow: 0 -1px 15px black, 0 1px 0 #94ba0b, 0 2px 0 #98bf0b, 0 0px 0 #9bc40b, 0 1px 0 #9fc80c, 0 2px 0 #a3cd0c, 0 2px 30px rgba(226, 250, 161, 0.6);
+}

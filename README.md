@@ -1,0 +1,3 @@
+Ideas:
+- portals
+- power ups
