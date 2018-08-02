@@ -1,4 +1,5 @@
 JavaScript we need to learn:
+  - instal live refresh plug-in
   - arrays
   - object notation
 
